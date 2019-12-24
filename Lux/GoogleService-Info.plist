@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>670049166227-vb5tqvcb4i4oulesm42fb6dajbqnlt5c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.670049166227-vb5tqvcb4i4oulesm42fb6dajbqnlt5c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA-M7mEPT-9BDBxxp_pyVIiPyTthbJNJE4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>670049166227</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.azzuno.Lux</string>
+	<key>PROJECT_ID</key>
+	<string>luxapp-1723d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>luxapp-1723d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:670049166227:ios:a9f4bc3a21d2650c</string>
+	<key>DATABASE_URL</key>
+	<string>https://luxapp-1723d.firebaseio.com</string>
+</dict>
+</plist>
